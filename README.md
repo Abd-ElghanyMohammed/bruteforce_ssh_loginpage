@@ -24,4 +24,4 @@ The accompanying data files included in this repository have been pre-loaded wit
 
 Run the script from your terminal:
 ```bash
-python script.py
+python fucked_this_target.py
